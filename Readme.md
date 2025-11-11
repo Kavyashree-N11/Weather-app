@@ -107,3 +107,4 @@ Add geolocation feature to show weather for your current location
 Kavyashree N
 Project: Weather App (Fetch API)
 Built for learning and practice using HTML, CSS, and JavaScript 🌤️
+Developed as part of an Internship at Cognetix Technology.
