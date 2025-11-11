@@ -1,4 +1,5 @@
 🌦️ Weather App (Fetch API)
+
 📋 Objective
 
 Build a dynamic weather application that fetches and displays real-time weather information for any city using the OpenWeather API.
